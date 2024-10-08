@@ -1,0 +1,21 @@
+.container {
+  max-width: 600px;
+}
+
+h1, h2 {
+  color: #343a40;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+@media (max-width: 600px) {
+  .container {
+    padding: 10px;
+  }
+}
